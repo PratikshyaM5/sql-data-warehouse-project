@@ -81,9 +81,9 @@ data-warehouse-project/
 
 ## **🛠️ Tech Stack**
 
-- Microsoft SQL Server
-- SQL
-- ETL
-- Medallion Architecture
-- Data Modeling
-- Data Analytics
+- **Microsoft SQL Server**
+- **SQL**
+- **ETL**
+- **Medallion Architecture**
+- **Data Modeling**
+- **Data Analytics**
