@@ -15,6 +15,8 @@ This project was completed as a **guided learning project** based on the educati
 
 **📊 Analytics & Reporting**: Creating SQL-based reports and analytical insights to support data-driven decision-making.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
 # **🚀 Project Requirements**
 ## **Building the Data Warehouse (Data Engineering)**
 Objective
