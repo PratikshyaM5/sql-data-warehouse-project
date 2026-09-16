@@ -1,5 +1,6 @@
-**SQL Data Warehouse & Analytics Project**
-**📌 Project Overview**
+# **SQL Data Warehouse & Analytics Project**
+
+## **📌 Project Overview**
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights built using **Microsoft SQL Server**. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
