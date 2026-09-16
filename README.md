@@ -77,3 +77,13 @@ data-warehouse-project/
 ├── LICENSE                             # License information for the repository
 └── .gitignore                          # Files and directories to be ignored by Git
 ```
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+## **🛠️ Tech Stack**
+
+- Microsoft SQL Server
+- SQL
+- ETL
+- Medallion Architecture
+- Data Modeling
+- Data Analytics
